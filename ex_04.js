@@ -1,0 +1,7 @@
+displayThisText(typeof(x))
+displayThisText(typeof(true))
+displayThisText(typeof(5))
+displayThisText(typeof(1234n))
+displayThisText(typeof(Symbol()))
+displayThisText(typeof(null))
+displayThisText(typeof(displayThisText))
